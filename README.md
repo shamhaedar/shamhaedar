@@ -3,7 +3,7 @@
 🎓 3rd year Information Technology Engineering student  
 🚀 Currently learning .NET Core & ASP.NET backend development  
 💡 Building my first REST APIs and portfolio projects  
-📫 Reach me at: your.email@gmail.com
+📫 Reach me at: sham.haedar.54@gmail.com
 
 ---
 
