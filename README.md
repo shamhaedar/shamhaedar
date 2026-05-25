@@ -21,6 +21,7 @@
 
 ---
 
-## 🔗 Connect with me
+##  🔗 Connect with me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sham-haedar-aa35b4375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/
+sham-haedar-aa35b4375)
