@@ -15,9 +15,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
- Projects (Coming Soon)
 
- Currently building my first .NET Core REST API...
+| Project Name | Preview / Icon |
+| :--- | :---: |
+| **[TasksAPI & Frontend Todo](https://github.com/shamhaedar/TasksAPI)** <br> Fullstack C# .NET API with a modern React interface. | <img src="https://raw.githubusercontent.com/shamhaedar/TasksAPI/master/frontend/screenshot.png" width="300" alt="Tasks App Preview"/> |
+| **[E-Commerce API](https://github.com/shamhaedar/ecommerce)** <br> Advanced backend built with Clean Architecture. | 🛠️ *In Progress* |
 
 ---
 
